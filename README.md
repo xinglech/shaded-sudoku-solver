@@ -6,8 +6,6 @@ An extension of Peter Norvig's classic Sudoku solver to handle puzzles with shad
 
 - `normal_sudoku.py` – Norvig's original solver adapted to enumerate all solutions.
 - `shaded_sudoku.py` – Enhanced solver that parses custom shaded‑region notation and adds shaded areas as extra Sudoku constraints.
-- `puzzle_notation.txt` – The original puzzle in custom string format.
-- `output_examples/` – Sample outputs from both solvers.
 
 ## Puzzle Notation
 
